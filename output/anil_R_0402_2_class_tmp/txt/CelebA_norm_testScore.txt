@@ -1,0 +1,209 @@
+============================================================
+Model 000 
+TP:424, TN:3,  FP:6,  FN:80
+accuracy:0.832359
+precision:0.986047
+recall:0.841270
+f_measure:0.907923
+sensitivity:0.841270
+specificity:0.333333
+error_rate:0.167641
+apcer:0.666667
+bpcer:0.158730
+acer:0.412698
+eer:0.486111
+hter:0.389881
+TPR@FPR=10E-3:0.111111
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 000 
+TP:424, TN:3,  FP:6,  FN:80
+accuracy:0.832359
+precision:0.986047
+recall:0.841270
+f_measure:0.907923
+sensitivity:0.841270
+specificity:0.333333
+error_rate:0.167641
+apcer:0.666667
+bpcer:0.158730
+acer:0.412698
+eer:0.486111
+hter:0.389881
+TPR@FPR=10E-3:0.111111
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 000 
+TP:424, TN:3,  FP:6,  FN:80
+accuracy:0.832359
+precision:0.986047
+recall:0.841270
+f_measure:0.907923
+sensitivity:0.841270
+specificity:0.333333
+error_rate:0.167641
+apcer:0.666667
+bpcer:0.158730
+acer:0.412698
+eer:0.486111
+hter:0.389881
+TPR@FPR=10E-3:0.111111
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 001 
+TP:322, TN:5,  FP:4,  FN:182
+accuracy:0.637427
+precision:0.987730
+recall:0.638889
+f_measure:0.775904
+sensitivity:0.638889
+specificity:0.555556
+error_rate:0.362573
+apcer:0.444444
+bpcer:0.361111
+acer:0.402778
+eer:0.461310
+hter:0.320437
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 000 
+TP:424, TN:3,  FP:6,  FN:80
+accuracy:0.832359
+precision:0.986047
+recall:0.841270
+f_measure:0.907923
+sensitivity:0.841270
+specificity:0.333333
+error_rate:0.167641
+apcer:0.666667
+bpcer:0.158730
+acer:0.412698
+eer:0.486111
+hter:0.389881
+TPR@FPR=10E-3:0.111111
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 001 
+TP:322, TN:5,  FP:4,  FN:182
+accuracy:0.637427
+precision:0.987730
+recall:0.638889
+f_measure:0.775904
+sensitivity:0.638889
+specificity:0.555556
+error_rate:0.362573
+apcer:0.444444
+bpcer:0.361111
+acer:0.402778
+eer:0.461310
+hter:0.320437
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 002 
+TP:329, TN:1,  FP:8,  FN:175
+accuracy:0.643275
+precision:0.976261
+recall:0.652778
+f_measure:0.782402
+sensitivity:0.652778
+specificity:0.111111
+error_rate:0.356725
+apcer:0.888889
+bpcer:0.347222
+acer:0.618056
+eer:0.691468
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 003 
+TP:154, TN:2,  FP:7,  FN:350
+accuracy:0.304094
+precision:0.956522
+recall:0.305556
+f_measure:0.463158
+sensitivity:0.305556
+specificity:0.222222
+error_rate:0.695906
+apcer:0.777778
+bpcer:0.694444
+acer:0.736111
+eer:0.780754
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 004 
+TP:224, TN:2,  FP:7,  FN:280
+accuracy:0.440546
+precision:0.969697
+recall:0.444444
+f_measure:0.609524
+sensitivity:0.444444
+specificity:0.222222
+error_rate:0.559454
+apcer:0.777778
+bpcer:0.555556
+acer:0.666667
+eer:0.697421
+hter:0.496032
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 005 
+TP:7, TN:1,  FP:8,  FN:497
+accuracy:0.015595
+precision:0.466667
+recall:0.013889
+f_measure:0.026975
+sensitivity:0.013889
+specificity:0.111111
+error_rate:0.984405
+apcer:0.888889
+bpcer:0.986111
+acer:0.937500
+eer:0.977183
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 000 
+TP:424, TN:3,  FP:6,  FN:80
+accuracy:0.832359
+precision:0.986047
+recall:0.841270
+f_measure:0.907923
+sensitivity:0.841270
+specificity:0.333333
+error_rate:0.167641
+apcer:0.666667
+bpcer:0.158730
+acer:0.412698
+eer:0.486111
+hter:0.389881
+TPR@FPR=10E-3:0.111111
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
